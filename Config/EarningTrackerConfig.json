@@ -3,7 +3,6 @@
     "EnableLog":  true,
     "WriteEvery":   10,
     "Pools":  [
-                  "nicehash",
-                  "zergpoolplus"
+                  "ProHashing"
               ]
 }
